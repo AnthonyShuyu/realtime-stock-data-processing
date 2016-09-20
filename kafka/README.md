@@ -2,7 +2,7 @@
 
 ## data-producer.py
 
-realize a Kafka producer, fetch a stock information per second from Google finance, and send to Kafka
+implement a Kafka producer, fetch a stock information per second from Google finance, and send to Kafka
 
 ### code dependences
 
@@ -31,7 +31,7 @@ stock-analyzer 192.168.99.100:9092
 
 ## fast-data-producer.py
 
-realize another Kafka producer, produce random stock price and send to Kafka
+implement another Kafka producer, produce random stock price and send to Kafka
 Due to the large amount of data, be cautious to set the isolated development environment
 
 ### code dependences

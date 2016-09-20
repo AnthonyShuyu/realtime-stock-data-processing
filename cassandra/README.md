@@ -1,7 +1,7 @@
 # Cassandra related codes
 
 ## data-storage.py
-realize a process of data storage using Cassandra
+implement a process of data storage using Cassandra
 
 ### data dependences
 cassandra-driver
